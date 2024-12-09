@@ -33,5 +33,4 @@
 ![PICT](https://img.shields.io/badge/-PICT-00A9E0?style=for-the-badge&logo=Microsoft)
 ![QASE](https://img.shields.io/badge/-QASE-090810?style=for-the-badge&logo=QASE)
 
-
-Follow me
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickita119)](https://github.com/anuraghazra/github-readme-stats)
