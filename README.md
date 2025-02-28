@@ -1,11 +1,6 @@
 ![Header](https://github.com/Nickita119/Nickita119/blob/main/assets/header.png)
 
-## Привет! Я - Никита, QA Engineer
-
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
-
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
+## Привет! Я Инженер по тестированию, QA Engineer
 
 <br>
 
@@ -64,27 +59,3 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
-
-<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
-<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
-
-
-<br>
-
-## 🪴 Практика и стажировка
-
-
-<br>
-
-## 🎒 Образование
-
-
-<br>
-<br>
-
-## 🤝 Контакт
-
-
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickita119&theme=dark&show_icons=true)
