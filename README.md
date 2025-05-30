@@ -42,6 +42,9 @@
   <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Xcode-Dark.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
 </div>
 
 ## Логи и мониторинги
@@ -51,6 +54,8 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NewRelic-Dark.svg" title="New Relic" alt="New Relic" width="40" height="40"/>&nbsp
 </div>
 
 ## Тестовая документация 
@@ -59,6 +64,8 @@
     <img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Confluence-Dark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jira-Dark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp  
   </div>
 
 ## Работа с базами данных
